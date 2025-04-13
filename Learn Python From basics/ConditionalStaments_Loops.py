@@ -14,7 +14,7 @@ age = int(input("enter your age: "))
 if age >= 14:
     print("you are above 14")
 else:
-    print("you can't play")
+    print("you can't play!")
 
 # exercise
 win_num = 8
